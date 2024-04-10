@@ -229,3 +229,6 @@ def main():                                                 # main function for 
             print(birthdays(book))
         else:
             print("Invalid command.")
+
+if __name__ == "__main__":
+    main()
